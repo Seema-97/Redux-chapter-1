@@ -5,7 +5,6 @@ const initialState = {
   };
 
 
-
 export const loginSlice = createSlice({
   name: 'login',
   initialState,
